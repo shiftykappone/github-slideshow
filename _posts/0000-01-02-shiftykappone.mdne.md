@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Learning is fun and easy with git labs!"
 
 ---
 
